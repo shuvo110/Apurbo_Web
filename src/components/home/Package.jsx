@@ -44,7 +44,7 @@ function Package() {
                                     📩 বুকিং করুন
                                 </button>
                                 <a
-                                    href="https://wa.me/8801XXXXXXXXX"
+                                    href="https://wa.me/8801794911366"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="btn btn-secondary w-full"

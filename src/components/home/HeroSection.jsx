@@ -21,7 +21,7 @@ function HeroSection() {
                     </div>
                     <div className='space-y-4 md:space-y-6 mt-8 md:mt-0'>
                         <h1 className="text-2xl lg:text-5xl font-bold">মুহূর্ত ধরে রাখি,</h1>
-                        <h1 className="text-lg lg:text-3xl font-bold">গল্পে রূপ দিই</h1>
+                        <h1 className="text-lg lg:text-3xl font-bold">গল্পে রূপ দিই <span className='text-accent ml-3 animate-pulse border px-2 rounded-lg'> ক্যামেরা ছোঁয়া</span></h1>
                         <p className="pt-3 text-lg">
                             সামাজিক অনুষ্ঠানের জন্য প্রফেশনাল ভিডিও এডিটিং ও ইভেন্ট কভারেজ
                         </p>

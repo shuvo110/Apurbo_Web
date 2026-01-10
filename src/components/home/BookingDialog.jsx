@@ -157,7 +157,7 @@ export default function BookingDialog({ service, onClose }) {
 
                     <button className="btn btn-outline btn-secondary w-full">📩 বুকিং রিকোয়েস্ট পাঠান</button>
                     <a
-                        href="https://wa.me/01794-911366" // আপনার WhatsApp নম্বর
+                        href="https://wa.me/8801794911366" // আপনার WhatsApp নম্বর
                         target="_blank"
                         rel="noopener noreferrer"
                         className="btn btn-outline btn-accent w-full"

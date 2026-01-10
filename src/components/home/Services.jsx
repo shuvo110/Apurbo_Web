@@ -14,7 +14,7 @@ export default function Services() {
         infinite: true,
         speed: 500,
         slidesToShow: 4,
-        slidesToScroll: 1,
+        // slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 2000,
         pauseOnHover: true,

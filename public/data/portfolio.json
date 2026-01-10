@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "সিনেমাটিক ওয়েডিং হাইলাইট",
+        "category": "বিয়ে",
+        "description": "সিনেমাটিক স্টাইলে সম্পূর্ণ বিয়ের ভিডিও কভারেজ ও এডিটিং।",
+        "thumbnail": "public/images/portfollio/biye/biye1.png",
+        "videoUrl": "https://www.facebook.com/reel/1494232605013852"
+    },
+    {
+        "id": 2,
+        "title": "ওয়েডিং টিজার ভিডিও",
+        "category": "বিয়ে",
+        "description": "বিয়ের অনুষ্ঠানের জন্য শর্ট ও আকর্ষণীয় টিজার ভিডিও।",
+        "thumbnail": "public/images/portfollio/biye/biye2.png",
+        "videoUrl": "https://www.facebook.com/reel/1184524980102754"
+    },
+    {
+        "id": 3,
+        "title": "কর্পোরেট ইভেন্ট কভারেজ",
+        "category": "ইভেন্ট",
+        "description": "কর্পোরেট ইভেন্টের সম্পূর্ণ ভিডিও কভারেজ ও এডিটিং।",
+        "thumbnail": "public/images/portfollio/event/event1.png",
+        "videoUrl": "https://www.facebook.com/reel/1141719087811976"
+    },
+    {
+        "id": 4,
+        "title": "বার্থডে ইভেন্ট ভিডিও",
+        "category": "ইভেন্ট",
+        "description": "অনুষ্ঠানের স্মরণীয় ভিডিও কভারেজ।",
+         "thumbnail": "public/images/portfollio/event/event2.png",
+        "videoUrl": "https://www.facebook.com/reel/1025154649551257"
+    },
+    {
+        "id": 5,
+        "title": "ইউটিউব ভ্লগ এডিটিং",
+        "category": "ইউটিউব",
+        "description": "ভ্লগ ভিডিওর জন্য ক্লিন ও প্রফেশনাল এডিটিং।",
+        "thumbnail": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+        "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw"
+    },
+    {
+        "id": 6,
+        "title": "ইউটিউব টেক ভিডিও",
+        "category": "ইউটিউব",
+        "description": "টেক রিভিউ ভিডিওর জন্য স্মুথ কাট ও কালার গ্রেডিং।",
+        "thumbnail": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "videoUrl": "https://www.youtube.com/embed/l482T0yNkeo"
+    },
+    {
+        "id": 7,
+        "title": "ইনস্টাগ্রাম রিলস এডিট",
+        "category": "রিলস",
+        "description": "ইনস্টাগ্রামের জন্য শর্ট ও এনগেজিং ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+        "videoUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    },
+    {
+        "id": 8,
+        "title": "ফেসবুক শর্ট ভিডিও",
+        "category": "রিলস",
+        "description": "সোশ্যাল মিডিয়ার জন্য শর্ট ফরম্যাট ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+        "videoUrl": "https://www.youtube.com/embed/oUFJJNQGwhk"
+    },
+    {
+        "id": 9,
+        "title": "কর্পোরেট প্রোমো ভিডিও",
+        "category": "কর্পোরেট",
+        "description": "ব্র্যান্ড ও কোম্পানির জন্য প্রোমোশনাল ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+        "videoUrl": "https://www.youtube.com/embed/kXYiU_JCYtU"
+    },
+    {
+        "id": 10,
+        "title": "প্রোডাক্ট প্রোমোশন ভিডিও",
+        "category": "কর্পোরেট",
+        "description": "নতুন প্রোডাক্টের জন্য আকর্ষণীয় ভিডিও প্রোমোশন।",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3QUJdYBeE5adRo-mm_uVuTIbCGb_XDkkXQA&s",
+        "videoUrl": "https://www.youtube.com/embed/V-_O7nl0Ii0"
+    },
+    {
+        "id": 11,
+        "title": "বিয়ের ফুল ভিডিও",
+        "category": "বিয়ে",
+        "description": "সম্পূর্ণ বিয়ের অনুষ্ঠান কাভার করা ফুল লেংথ ভিডিও।",
+        "thumbnail": "public/images/portfollio/biye/biye4.png",
+        "videoUrl": "https://www.facebook.com/reel/1436853297767677"
+    },
+    {
+        "id": 12,
+        "title": "হলুদ অনুষ্ঠান ভিডিও",
+        "category": "বিয়ে",
+        "description": "হলুদ অনুষ্ঠানের রঙিন ও প্রাণবন্ত ভিডিও।",
+        "thumbnail": "public/images/portfollio/biye/biye3.png",
+        "videoUrl": "https://www.facebook.com/reel/1710095477049442"
+    },
+    {
+        "id": 13,
+        "title": "লাইভ ইভেন্ট কভারেজ",
+        "category": "ইভেন্ট",
+        "description": "স্টেজ শো ও লাইভ ইভেন্ট ভিডিও কভারেজ।",
+        "thumbnail": "public/images/portfollio/event/event3.png",
+        "videoUrl": "https://www.facebook.com/reel/1098024002081447"
+    },
+    {
+        "id": 14,
+        "title": "কনফারেন্স ভিডিও",
+        "category": "ইভেন্ট",
+        "description": "প্রফেশনাল কনফারেন্স ভিডিওগ্রাফি।",
+        "thumbnail": "public/images/portfollio/event/event4.png",
+        "videoUrl": "https://www.facebook.com/reel/1205413387619951"
+    },
+    {
+        "id": 15,
+        "title": "ইউটিউব শর্টস",
+        "category": "ইউটিউব",
+        "description": "ইউটিউব শর্টসের জন্য ফাস্ট পেসড এডিটিং।",
+        "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "videoUrl": "https://www.youtube.com/embed/fLexgOxsZu0"
+    },
+    {
+        "id": 16,
+        "title": "ভ্লগ ট্রাভেল ভিডিও",
+        "category": "ইউটিউব",
+        "description": "ট্রাভেল ভ্লগ ভিডিওর জন্য সিনেমাটিক এডিট।",
+        "thumbnail": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429",
+        "videoUrl": "https://www.youtube.com/embed/2Vv-BfVoq4g"
+    },
+    {
+        "id": 17,
+        "title": "ইনস্টাগ্রাম প্রোমো রিল",
+        "category": "রিলস",
+        "description": "ব্র্যান্ড প্রোমোশনের জন্য রিল ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+        "videoUrl": "https://www.youtube.com/embed/3tmd-ClpJxA"
+    },
+    {
+        "id": 18,
+        "title": "ফেসবুক ভিডিও এড",
+        "category": "রিলস",
+        "description": "ফেসবুক বিজ্ঞাপনের জন্য শর্ট ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "videoUrl": "https://www.youtube.com/embed/L_jWHffIx5E"
+    },
+    {
+        "id": 19,
+        "title": "কর্পোরেট ডকুমেন্টারি",
+        "category": "কর্পোরেট",
+        "description": "কোম্পানির জন্য ডকুমেন্টারি স্টাইল ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "videoUrl": "https://www.youtube.com/embed/e-ORhEE9VVg"
+    },
+    {
+        "id": 20,
+        "title": "ব্র্যান্ড স্টোরি ভিডিও",
+        "category": "কর্পোরেট",
+        "description": "ব্র্যান্ডের গল্প তুলে ধরার জন্য সিনেমাটিক ভিডিও।",
+        "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+        "videoUrl": "https://www.youtube.com/embed/rYEDA3JcQqw"
+    }
+]

@@ -4,7 +4,7 @@
         "title": "সিনেমাটিক ওয়েডিং হাইলাইট",
         "category": "বিয়ে",
         "description": "সিনেমাটিক স্টাইলে সম্পূর্ণ বিয়ের ভিডিও কভারেজ ও এডিটিং।",
-        "thumbnail": "public/images/portfollio/biye/biye1.png",
+        "thumbnail": "/portfollio/biye/biye1.png",
         "videoUrl": "https://www.facebook.com/reel/1494232605013852"
     },
     {
@@ -12,7 +12,7 @@
         "title": "ওয়েডিং টিজার ভিডিও",
         "category": "বিয়ে",
         "description": "বিয়ের অনুষ্ঠানের জন্য শর্ট ও আকর্ষণীয় টিজার ভিডিও।",
-        "thumbnail": "public/images/portfollio/biye/biye2.png",
+        "thumbnail": "/portfollio/biye/biye2.png",
         "videoUrl": "https://www.facebook.com/reel/1184524980102754"
     },
     {
@@ -20,7 +20,7 @@
         "title": "কর্পোরেট ইভেন্ট কভারেজ",
         "category": "ইভেন্ট",
         "description": "কর্পোরেট ইভেন্টের সম্পূর্ণ ভিডিও কভারেজ ও এডিটিং।",
-        "thumbnail": "public/images/portfollio/event/event1.png",
+        "thumbnail": "/portfollio/event/event1.png",
         "videoUrl": "https://www.facebook.com/reel/1141719087811976"
     },
     {
@@ -28,7 +28,7 @@
         "title": "বার্থডে ইভেন্ট ভিডিও",
         "category": "ইভেন্ট",
         "description": "অনুষ্ঠানের স্মরণীয় ভিডিও কভারেজ।",
-         "thumbnail": "public/images/portfollio/event/event2.png",
+         "thumbnail": "/portfollio/event/event2.png",
         "videoUrl": "https://www.facebook.com/reel/1025154649551257"
     },
     {
@@ -84,7 +84,7 @@
         "title": "বিয়ের ফুল ভিডিও",
         "category": "বিয়ে",
         "description": "সম্পূর্ণ বিয়ের অনুষ্ঠান কাভার করা ফুল লেংথ ভিডিও।",
-        "thumbnail": "public/images/portfollio/biye/biye4.png",
+        "thumbnail": "/portfollio/biye/biye4.png",
         "videoUrl": "https://www.facebook.com/reel/1436853297767677"
     },
     {
@@ -92,7 +92,7 @@
         "title": "হলুদ অনুষ্ঠান ভিডিও",
         "category": "বিয়ে",
         "description": "হলুদ অনুষ্ঠানের রঙিন ও প্রাণবন্ত ভিডিও।",
-        "thumbnail": "public/images/portfollio/biye/biye3.png",
+        "thumbnail": "/portfollio/biye/biye3.png",
         "videoUrl": "https://www.facebook.com/reel/1710095477049442"
     },
     {
@@ -100,7 +100,7 @@
         "title": "লাইভ ইভেন্ট কভারেজ",
         "category": "ইভেন্ট",
         "description": "স্টেজ শো ও লাইভ ইভেন্ট ভিডিও কভারেজ।",
-        "thumbnail": "public/images/portfollio/event/event3.png",
+        "thumbnail": "/portfollio/event/event3.png",
         "videoUrl": "https://www.facebook.com/reel/1098024002081447"
     },
     {
@@ -108,7 +108,7 @@
         "title": "কনফারেন্স ভিডিও",
         "category": "ইভেন্ট",
         "description": "প্রফেশনাল কনফারেন্স ভিডিওগ্রাফি।",
-        "thumbnail": "public/images/portfollio/event/event4.png",
+        "thumbnail": "/portfollio/event/event4.png",
         "videoUrl": "https://www.facebook.com/reel/1205413387619951"
     },
     {

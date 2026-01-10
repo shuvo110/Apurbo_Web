@@ -17,87 +17,70 @@ export default function Services() {
         autoplaySpeed: 2000,
         pauseOnHover: true,
         responsive: [
-            {
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                },
-            },
-            {
-                breakpoint: 768,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                },
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    dots: false,
-                },
-            },
+            { breakpoint: 1024, settings: { slidesToShow: 3 } },
+            { breakpoint: 768, settings: { slidesToShow: 2 } },
+            { breakpoint: 480, settings: { slidesToShow: 1, dots: false } },
         ],
     };
 
-
     return (
-        <div>
-            <section id="services" className="py-16 px-4 bg-base-200">
-                <div className="container mx-auto px-4">
-                    {/* Heading */}
-                    <motion.div
-                        initial={{ opacity: 0, y: 60 }}
-                        whileInView={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.8 }}
-                        className="text-center mb-12 space-y-3">
-                        <h2 className="text-2xl md:text-4xl font-bold">
-                            আমাদের সার্ভিসসমূহ
-                        </h2>
-                        <p className="text-gray-500">
-                            প্রফেশনাল ভিডিও এডিটিং ও প্রোডাকশন সার্ভিস
-                        </p>
-                    </motion.div>
+        <section id="services" className="py-16 bg-base-200 ">
+            {/* ❌ container বাদ */}
+            <div className="w-full max-w-7xl mx-auto px-10 overflow-hidden">
 
-                    {/* Slider */}
-                    <div className="w-full max-w-7xl m-auto">
-                        <Slider {...settings}>
-                            {services.map((service) => (
-                                <div key={service.id} className="px-3">
-                                    <div className="card border bg-base-100 shadow-xl transition">
-                                        <div className="card-body text-center space-y-3">
-                                            <div className="text-4xl">{service.icon}</div>
-                                            <h3 className="card-title justify-center">{service.titleBn}</h3>
-                                            <p className="text-sm text-gray-500">{service.description}</p>
-                                            <p className="font-semibold text-accent text-lg">
-                                                ‍<span className="text-red-800 font-bold">Price :</span>{" "}
-                                                {service.price}
-                                            </p>
+                {/* Heading */}
+                <motion.div
+                    initial={{ opacity: 0, y: 60 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.8 }}
+                    className="text-center mb-12 space-y-3"
+                >
+                    <h2 className="text-2xl md:text-4xl font-bold">
+                        আমাদের সার্ভিসসমূহ
+                    </h2>
+                    <p className="text-gray-500">
+                        প্রফেশনাল ভিডিও এডিটিং ও প্রোডাকশন সার্ভিস
+                    </p>
+                </motion.div>
 
-                                            <button
-                                                className="btn btn-sm btn-accent mt-2"
-                                                onClick={() => setSelectedService(service)}
-                                            >
-                                                এখনই বুক করুন
-                                            </button>
-                                        </div>
-                                    </div>
+                {/* Slider */}
+                <Slider {...settings}>
+                    {services.map((service) => (
+                        <div key={service.id} className="px-3">
+                            <div className="card border bg-base-100 shadow-xl">
+                                <div className="card-body text-center space-y-3">
+                                    <div className="text-4xl">{service.icon}</div>
+                                    <h3 className="card-title justify-center">
+                                        {service.titleBn}
+                                    </h3>
+                                    <p className="text-sm text-gray-500">
+                                        {service.description}
+                                    </p>
+                                    <p className="font-semibold text-accent text-lg">
+                                        <span className="text-red-800 font-bold">Price :</span>{" "}
+                                        {service.price}
+                                    </p>
+
+                                    <button
+                                        className="btn btn-sm btn-accent mt-2"
+                                        onClick={() => setSelectedService(service)}
+                                    >
+                                        এখনই বুক করুন
+                                    </button>
                                 </div>
-                            ))}
-                        </Slider>
-                    </div>
+                            </div>
+                        </div>
+                    ))}
+                </Slider>
 
-                    {/* Booking Dialog */}
-                    {selectedService && (
-                        <BookingDialog
-                            service={selectedService}
-                            onClose={() => setSelectedService(null)}
-                        />
-                    )}
-                </div>
-            </section>
-        </div>
+                {/* Booking Dialog */}
+                {selectedService && (
+                    <BookingDialog
+                        service={selectedService}
+                        onClose={() => setSelectedService(null)}
+                    />
+                )}
+            </div>
+        </section>
     );
 }

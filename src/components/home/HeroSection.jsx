@@ -13,7 +13,7 @@ function HeroSection() {
                     <div>
                         <img
                             src="https://scontent.fdac198-1.fna.fbcdn.net/v/t39.30808-6/518423345_122136786236421209_6325512940476710924_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEf29NOZmgkEX8l1hUM90l34lVOhUtBk0HiVU6FS0GTQe77iBGkDpbNno1w2Z1pAr4QgCWmyI5E810w2nwvPuAh&_nc_ohc=YahuAJCg1ZUQ7kNvwELc41V&_nc_oc=AdkD2BiTjyZTi9K_GdOvlzzDQVtYEI5vbI8nT6iHzpie245I-8Gxk4oIvd8ygO2c_MQ&_nc_zt=23&_nc_ht=scontent.fdac198-1.fna&_nc_gid=sSsTK0AwQsKN0rWdf8w6mA&oh=00_AfrjGuKKWXKWGcjB0iGc9Z4E-MtJT-uSaks18SfFCJP0Jg&oe=6968DED5"
-                            className="md:max-w-2xl rounded-lg shadow-2xl border p-1"
+                            className="md:max-w-2xl m-auto rounded-lg shadow-2xl border p-1"
                         />
                         <div>
 
